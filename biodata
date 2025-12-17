@@ -1,0 +1,4 @@
+nama = input("Masukkan Nama Anda : ")
+umur = input("Masukkan Umur Anda : ")
+print("Nama Anda adalah: ", nama)
+print("Umur Anda adalah: ", "tahun")
